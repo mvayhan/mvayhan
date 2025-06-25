@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 💼 Microsoft Full Stack Developer eğitimi alıyorum
 - 🎯 Hedefim: Modern yazılım ekiplerinde üretken bir geliştirici olmak. Bilgi birikimimi güncelleyerek eski mesleğime dönmek.
-- 🧠 Şu an öğrendiklerim: C#, HTML, CSS, JavaScript, Git ve React
+- 🧠 Şu an öğrendiklerim: C#, HTML, CSS, JavaScript,
 - 🔧 Kullandığım araçlar: VS Code, GitHub,
 - 🌱 Öğrenmeye ve paylaşmaya açığım
 <!--
